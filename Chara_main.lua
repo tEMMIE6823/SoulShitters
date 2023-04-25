@@ -1,1 +1,1 @@
-kick:("Chara overload is temp disabled as of right now whilst i deal with a child")
+kick:("Chara overload is temp disabled as of right\nDue to the fact that i need to fix a few solid things\nalso dont exploit on ur main if you have robux\nive seen way to many retards doing that shit smh")
