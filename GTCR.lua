@@ -14,6 +14,7 @@ P to softlock
 = to recreate ur rocks if they break somehow
 E & Q to switch modes
 X to fully transform into said mode
+and 0 to teleport back to spawn(useful if you got voided)
 
 REMEMBER TO EXECUTE THE SCRIPT ON THE MENU
 
