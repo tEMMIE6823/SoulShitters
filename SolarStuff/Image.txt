@@ -1,3 +1,0 @@
-local plr = game.Players.LocalPlayer.Character
-plr.OverwriteButton.OverwriteButton.SurfaceGui.ImageLabel.Image = 
--- idk why i made this as a whole fucking file, most useless shit possible
